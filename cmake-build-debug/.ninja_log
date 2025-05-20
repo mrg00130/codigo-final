@@ -1,0 +1,13 @@
+# ninja log v6
+10	1116	7693802329731932	CMakeFiles/Programa_informatica_final.dir/main.c.obj	a2dff85f4483d729
+8	1484	7693845568920697	CMakeFiles/Programa_informatica_final.dir/compra_venta.c.obj	88c2c16f9b66bfcb
+40	2172	7683469345404215	CMakeFiles/Programa_informatica_final.dir/menu_flechas.c.obj	9ddee46daf342abf
+5	169	7693807622596626	CMakeFiles/Programa_informatica_final.dir/productos_manejo.c.obj	a5210aa089003a3f
+1592	1765	7693857943087938	Programa_informatica_final.exe	ce432cb4a4c3a008
+19	1951	7693842287767203	CMakeFiles/Programa_informatica_final.dir/serial_protocol.c.obj	4e3b7108f7cb92fd
+7	1591	7693857927245960	CMakeFiles/Programa_informatica_final.dir/administrador.c.obj	b9b5f495dda3c817
+32	1265	7693623756121287	CMakeFiles/Programa_informatica_final.dir/serial_config.c.obj	d726ccea2b931d5a
+37	1937	7693493555634913	CMakeFiles/Programa_informatica_final.dir/pagos.c.obj	3b9b87173207368e
+15	152	7693534998268226	CMakeFiles/Programa_informatica_final.dir/fondo_manejo.c.obj	d22441d9c87a1f05
+35	1391	7693564911527453	CMakeFiles/Programa_informatica_final.dir/vending_serial.c.obj	df8ba7d98c773572
+5	448	7694596851327665	build.ninja	3de4420ea19a6ff3

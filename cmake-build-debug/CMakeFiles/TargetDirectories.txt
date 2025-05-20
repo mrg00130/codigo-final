@@ -1,0 +1,3 @@
+C:/Users/m4nol/CLionProjects/Programa_informatica_final/cmake-build-debug/CMakeFiles/Programa_informatica_final.dir
+C:/Users/m4nol/CLionProjects/Programa_informatica_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/m4nol/CLionProjects/Programa_informatica_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
